@@ -1,0 +1,5 @@
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks15\obj\Debug\net6.0\tasks15.csproj.AssemblyReference.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks15\obj\Debug\net6.0\tasks15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks15\obj\Debug\net6.0\tasks15.AssemblyInfoInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks15\obj\Debug\net6.0\tasks15.AssemblyInfo.cs
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks15\obj\Debug\net6.0\tasks15.csproj.CoreCompileInputs.cache

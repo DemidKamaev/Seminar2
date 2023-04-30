@@ -1,0 +1,15 @@
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\bin\Debug\net6.0\tasks10.exe
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\bin\Debug\net6.0\tasks10.deps.json
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\bin\Debug\net6.0\tasks10.runtimeconfig.json
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\bin\Debug\net6.0\tasks10.dll
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\bin\Debug\net6.0\tasks10.pdb
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.csproj.AssemblyReference.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.AssemblyInfoInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.AssemblyInfo.cs
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.csproj.CoreCompileInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.dll
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\refint\tasks10.dll
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.pdb
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\tasks10.genruntimeconfig.cache
+C:\Программирование CSharp\Семинары\Семинар 2\tastks\tasks10\obj\Debug\net6.0\ref\tasks10.dll
